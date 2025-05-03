@@ -1,0 +1,33 @@
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\COPY.csprojResolveAssemblyReference.cache
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\COPY.csproj.GenerateResource.Cache
+C:\Users\Cooffiee\Documents\Visual Studio 2012\Projects\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form8.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\SYSTEM\COPY\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\SYSTEM\COPY\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\COPY.csprojResolveAssemblyReference.cache
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form8.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\COPY.csproj.GenerateResource.Cache
+C:\SYSTEM\COPY\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form9.resources
